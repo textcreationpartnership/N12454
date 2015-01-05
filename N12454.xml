@@ -115,8 +115,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:015729_0000_0F99DE163ACEFE20"/>
-            <pb facs="tcp:015729_0001_0F99DE16EC22A520" rendition="simple:additions"/>
+            <pb facs="unknown:015729_0000_0F99DE163ACEFE20"/>
+            <pb facs="unknown:015729_0001_0F99DE16EC22A520"
+                rendition="simple:additions"/>
             <p>THE PROSPECT OF PEACE.</p>
             <p>A POETICAL COMPOSITION, DELIVERED IN YALE-COLLEGE, AT THE PUBLIC EXAMINATION, OF THE CANDIDATES FOR THE DEGREE OF BACHELOR OF ARTS; JULY 23, 1778.</p>
             <p>By JOEL BARLOW. A. B.</p>
@@ -125,7 +126,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:015729_0002_0F99DE17A933D230"/>
+            <pb facs="unknown:015729_0002_0F99DE17A933D230"/>
             <head>THE PROSPECT OF PEACE.</head>
             <l>THE cloſing ſcenes of Tyrants' fruitleſs rage,</l>
             <l>The opening proſpects of a golden age,</l>
@@ -149,7 +150,7 @@
             <l>Age following age ſhall theſe events relate</l>
             <l>'Till Time's old empire yield to deſtin'd Fate;</l>
             <l>
-               <pb n="4" facs="tcp:015729_0003_0F99DE18A4ADBD70"/>Hiſtoric truth our guardian chiefs proclaim,</l>
+               <pb n="4" facs="unknown:015729_0003_0F99DE18A4ADBD70"/>Hiſtoric truth our guardian chiefs proclaim,</l>
             <l>Their worth<g ref="char:punc">▪</g> their actions, and their deathleſs fame;</l>
             <l>Admiring crouds their life-touch'd forms behold</l>
             <l>In breathing canvaſs, or in ſculptur'd gold,</l>
@@ -176,7 +177,7 @@
             <l>Bids private feuds her ſacred vengeance feel,</l>
             <l>And bow ſubmiſſive to the public weal;</l>
             <l>
-               <pb n="5" facs="tcp:015729_0004_0F99DE1D251A13D0"/>Bids long, calm years adorn the happy clime,</l>
+               <pb n="5" facs="unknown:015729_0004_0F99DE1D251A13D0"/>Bids long, calm years adorn the happy clime,</l>
             <l>And roll down bleſſings to remoteſt time.</l>
             <l>Hail! heaven-born Peace, fair Nurſe of Virtue hail!</l>
             <l>Here, fix thy ſceptre and exalt thy ſcale;</l>
@@ -203,7 +204,7 @@
             <l>In the gay fields, with rich profuſion ſtrow'd,</l>
             <l>The orchard bends beneath its yellow load,</l>
             <l>
-               <pb n="6" facs="tcp:015729_0005_0F99DE1ED4A245B8"/>The lofty boughs their annual burden pour,</l>
+               <pb n="6" facs="unknown:015729_0005_0F99DE1ED4A245B8"/>The lofty boughs their annual burden pour,</l>
             <l>And juicy harveſts ſwell th' autumnal ſtore.</l>
             <l>Theſe are the bleſſings of impartial Heaven,</l>
             <l>To each fond heart in juſt proportion given.</l>
@@ -230,7 +231,7 @@
             <l>There commerce ſwells from each remoteſt ſhore,</l>
             <l>And wafts in plenty to the ſmiling ſtore,</l>
             <l>
-               <pb n="7" facs="tcp:015729_0006_0F99DE200B665D90"/>To theſe throng'd ſeats the country wide reſorts,</l>
+               <pb n="7" facs="unknown:015729_0006_0F99DE200B665D90"/>To theſe throng'd ſeats the country wide reſorts,</l>
             <l>And rolls her treaſures to the op'ning ports;</l>
             <l>While, far remote, gay health and pleaſure flow,</l>
             <l>And calm retirement cheers the laboring brow.</l>
@@ -257,7 +258,7 @@
             <l>No more perplex'd, while RITTENHOUSE appears</l>
             <l>To grace the muſeum with the rolling ſpheres.</l>
             <l>
-               <pb n="8" facs="tcp:015729_0007_0F99DE20D7020B90"/>See that young Genius, that inventive ſoul,</l>
+               <pb n="8" facs="unknown:015729_0007_0F99DE20D7020B90"/>See that young Genius, that inventive ſoul,</l>
             <l>Whoſe laws the jarring elements control;</l>
             <l>Who guides the vengeance of mechanic power,</l>
             <l>To blaſt the watery world &amp; guard the peaceful ſhore.</l>
@@ -284,7 +285,7 @@
             <l>See liſtening Seraphs join the epic throng,</l>
             <l>And unborn JOSHUAS riſe in future ſong.</l>
             <l>
-               <pb n="9" facs="tcp:015729_0008_0F99DE21723B15C8"/>Satire attends at Virtue's wakening call,</l>
+               <pb n="9" facs="unknown:015729_0008_0F99DE21723B15C8"/>Satire attends at Virtue's wakening call,</l>
             <l>And Pride and Coquetry and Dulneſs fall.</l>
             <l>Unnumber'd bards ſhall ſtring the heavenly lyre,</l>
             <l>To thoſe bleſt ſtrains which heavenly themes inſpire;</l>
@@ -311,7 +312,7 @@
             <l>Thus age and youth a ſmiling aſpect wear,</l>
             <l>Aw'd into virtue by the leading Fair;</l>
             <l>
-               <pb n="10" facs="tcp:015729_0009_0F99DE2227A5DB48"/>While the bright offspring, riſing to the ſtage,</l>
+               <pb n="10" facs="unknown:015729_0009_0F99DE2227A5DB48"/>While the bright offspring, riſing to the ſtage,</l>
             <l>Conveys the bleſſings to the future age.</l>
             <l>THESE are the views that Freedom's cauſe attend;</l>
             <l>THESE ſhall endure 'till Time and Nature end.</l>
@@ -339,7 +340,7 @@
             <l>From this fair Mouth th'excinded ſtone ſhall roll,</l>
             <l>Reach the far Eaſt and ſpread from pole to pole;</l>
             <l>
-               <pb n="11" facs="tcp:015729_0010_0F99DE22E81EEB78"/>From one ſmall Stock ſhall countleſs nations riſe,</l>
+               <pb n="11" facs="unknown:015729_0010_0F99DE22E81EEB78"/>From one ſmall Stock ſhall countleſs nations riſe,</l>
             <l>The world repleniſh and adorn the ſkies.</l>
             <l>Earth's blood-ſtain'd empires, with their Guide the Sun,</l>
             <l>From orient climes their gradual progreſs run;</l>
@@ -368,7 +369,7 @@
             <l>'Till you bright orb, and thoſe celeſtial ſpheres,</l>
             <l>In radiant circles, mark a thouſand years;</l>
             <l>
-               <pb n="12" facs="tcp:015729_0011_0F99DE242218FD18"/>'Till the grand <hi>fiat</hi> burſt th' etherial frames,</l>
+               <pb n="12" facs="unknown:015729_0011_0F99DE242218FD18"/>'Till the grand <hi>fiat</hi> burſt th' etherial frames,</l>
             <l>Worlds cruſh on worlds, and Nature ſink in flames!</l>
             <l>The Church elect, from ſmouldering ruins, riſe,</l>
             <l>And ſail triumphant thro' the yielding ſkies,</l>
